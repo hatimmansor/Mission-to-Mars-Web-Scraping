@@ -12,12 +12,19 @@ python "scrape_mars.py" will read the red planet sciences web site using soup Mo
 
 
 # Technologies/Tools: 
-&#10004;Splinter      &#10004;BeautifulSoup      &#10004;Pandas     &#10004;WebDriver_Manager
+&#10004;Splinter      &#10004;BeautifulSoup      &#10004;Pandas     &#10004;WebDriver_Manager <br>
 &#10004;HTML      &#10004;Flask     &#10004;PyMongo     &#10004;Python
 
-![final HTML page](https://user-images.githubusercontent.com/24882457/155929465-0278f443-0bae-4737-8f4f-872c67a95c74.PNG)
 
-
+# Code Snapshots and Results:
+<table>
+  <tr>
+   <th style="text-align:center" colspan="2">Mars News Snapshot</td>
+  </tr>
+    <tr>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/155929465-0278f443-0bae-4737-8f4f-872c67a95c74.PNG" width=1000 height=350></td>
+  </tr>
+</table>
 
 
 # Contact:
