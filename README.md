@@ -1,4 +1,4 @@
-# Mission to Mars wWeb Scraping:
+# Mission to Mars Web Scraping:
 Web application that scrapes websites for data related to the mission to Mars
 In this project jupyter notebook file is used to build an offline code to get and test all the information that featched from https://redplanetscience.com/ web site.
 after getting an understanding the returned data structre, Flask is used to present and update that data.
@@ -19,10 +19,10 @@ python "scrape_mars.py" will read the red planet sciences web site using soup Mo
 # Code Snapshots and Results:
 <table>
   <tr>
-   <th style="text-align:center" colspan="2">Mars News Snapshot</td>
+   <th style="text-align:center" colspan="2">Mission To Mars Snapshot</td>
   </tr>
     <tr>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/155929465-0278f443-0bae-4737-8f4f-872c67a95c74.PNG" width=1000 height=350></td>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/155929465-0278f443-0bae-4737-8f4f-872c67a95c74.PNG" width=1000 height=700></td>
   </tr>
 </table>
 
